@@ -25,3 +25,16 @@ Example of a website using Bootstrap:
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Twitter_Bootstrap_Under_Firefox_32.png/445px-Twitter_Bootstrap_Under_Firefox_32.png)
 
+##The CSS
+
+Bootstrap provides a set of stylesheets that provide basic style definitions for all key HTML components. These provide a uniform, modern appearance for formatting text, tables and form elements.
+
+##Re-usable components
+
+In addition to the regular HTML elements, Bootstrap contains other commonly used interface elements. These include buttons with advanced features (e.g. grouping of buttons or buttons with drop-down option, make and navigation lists, horizontal and vertical tabs, navigation, breadcrumb navigation, pagination, etc.), labels, advanced typographic capabilities, thumbnails, warning messages and a progress bar. The components are implemented as CSS classes, which must be applied to certain HTML elements in a page.
+
+##JavaScript components
+
+Bootstrap comes with several JavaScript components in the form of jQuery plugins. They provide additional user interface elements such as dialog boxes, tooltips, and carousels. They also extend the functionality of some existing interface elements, including for example an auto-complete function for input fields. In version 2.0, the following JavaScript plugins are supported: Modal, Dropdown, Scrollspy, Tab, Tooltip, Popover, Alert, Button, Collapse, Carousel and Typeahead.
+
+
