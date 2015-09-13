@@ -19,4 +19,9 @@ Bootstrap is a front end framework, that is, an interface for the user, unlike t
 Bootstrap is the most-starred project on GitHub, with over 85,000 stars and more than 34,000 forks.
 
 ##How Bootsrap works
+Bootstrap is written in JavaSrcript and HTML/CSS thus making it easy to intergrate into a project, it predefines css styling that Web developers can add to components to make them look good and responsive accross all screen sizes.
+Bootstrap also uses a 12 grid column responsive system that enable user to place content according to screen size thus avoiding to write their own JS to make their web applicaions responsive.
+Example of a website using Bootstrap:
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Twitter_Bootstrap_Under_Firefox_32.png/445px-Twitter_Bootstrap_Under_Firefox_32.png)
 
