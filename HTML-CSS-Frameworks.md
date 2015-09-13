@@ -38,3 +38,15 @@ In addition to the regular HTML elements, Bootstrap contains other commonly used
 Bootstrap comes with several JavaScript components in the form of jQuery plugins. They provide additional user interface elements such as dialog boxes, tooltips, and carousels. They also extend the functionality of some existing interface elements, including for example an auto-complete function for input fields. In version 2.0, the following JavaScript plugins are supported: Modal, Dropdown, Scrollspy, Tab, Tooltip, Popover, Alert, Button, Collapse, Carousel and Typeahead.
 
 
+#JavaScript Frameworks
+JS has frameworks that make it easier to develop front end solutions, this frameworks also enable JS programmer to write a less amount of code and also be able to build Single Page Applications or Model View Controller applications.
+
+##Examples of JavaScript Frameworks.
+* Angular JS
+* Backbone JS
+* React JS
+* Polymer JS
+* Knockout JS
+And many more others
+
+
